@@ -113,7 +113,7 @@ Proxy:
   cipher: auto
   tls: true
   network: ws
-  ws-path:/path 
+  ws-path: /path 
   Host: 35.185.175.211
 
 - name: "ww"
@@ -125,7 +125,7 @@ Proxy:
   cipher: auto
   tls: true
   network: ws
-  ws-path:/path 
+  ws-path: /path 
   Host: 34.80.17.25
 
 - name: "jp"
@@ -137,7 +137,7 @@ Proxy:
   cipher: auto
   tls: true
   network: ws
-  ws-path:/path 
+  ws-path: /path 
   Host: 34.84.96.18
 
 
